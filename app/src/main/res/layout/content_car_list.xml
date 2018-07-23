@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="comtuckingfypos.httpsgithub.importexport.CarList"
+    tools:showIn="@layout/activity_car_list">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="$20,000 Collection Bonus"/>
+        <CheckBox android:id="@+id/checkbox_coquetteblackfin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="V1NT4G3"
+            />
+        <CheckBox android:id="@+id/checkbox_nightshade"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TH370S"
+            />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="5dp"
+            android:background="@drawable/customdivider"/>
+        <CheckBox android:id="@+id/checkbox_ztype"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="B1GM0N3Y"
+            />
+        <CheckBox android:id="@+id/checkbox_valor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0LDT1M3R"
+            />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="5dp"
+            android:background="@drawable/customdivider"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="$35,000 Collection Bonus"/>
+        <CheckBox android:id="@+id/checkbox_feltzer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="P0W3RFUL"
+            />
+        <CheckBox android:id="@+id/checkbox_811"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SL1CK"
+            />
+        <CheckBox android:id="@+id/checkbox_bestia"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BE4STY"
+            />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="5dp"
+            android:background="@drawable/customdivider2"/>
+        <CheckBox android:id="@+id/checkbox_sabre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="B0UNC3"
+            />
+        <CheckBox android:id="@+id/checkbox_tampa"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="CH1RG3D"
+            />
+        <CheckBox android:id="@+id/checkbox_mamba"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BLKM4MB4"
+            />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="5dp"
+            android:background="@drawable/customdivider2"/>
+        <CheckBox android:id="@+id/checkbox_x80"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="M4K3B4NK"
+            />
+        <CheckBox android:id="@+id/checkbox_t20"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="D3V1L"
+            />
+        <CheckBox android:id="@+id/checkbox_osiris"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SL33K"
+            />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="5dp"
+            android:background="@drawable/customdivider2"/>
+        <CheckBox android:id="@+id/checkbox_coquetteclassic"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="T0PL3SS"
+            />
+        <CheckBox android:id="@+id/checkbox_verlierer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="PR3C10US"
+            />
+        <CheckBox android:id="@+id/checkbox_etr1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="PR3TTY"
+            />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="5dp"
+            android:background="@drawable/customdivider2"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="$50,000 Collection Bonus"/>
+        <CheckBox android:id="@+id/checkbox_alpha"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="V1S10NRY"
+            />
+        <CheckBox android:id="@+id/checkbox_reaper"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="D34TH4U"
+            />
+        <CheckBox android:id="@+id/checkbox_massacro"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="B055"
+            />
+        <CheckBox android:id="@+id/checkbox_zentorno"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="W1NN1NG"
+            />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="5dp"
+            android:background="@drawable/customdivider3"/>
+        <CheckBox android:id="@+id/checkbox_cheetah"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BUZZ3D"
+            />
+        <CheckBox android:id="@+id/checkbox_tyrus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="C1TRUS"
+            />
+        <CheckBox android:id="@+id/checkbox_fmj"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="C4TCHM3"
+            />
+        <CheckBox android:id="@+id/checkbox_entity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="OV3RFL0D"
+            />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="5dp"
+            android:background="@drawable/customdivider3"/>
+        <CheckBox android:id="@+id/checkbox_banshee"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="DR1FT3R"
+            />
+        <CheckBox android:id="@+id/checkbox_stirling"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="R4LLY"
+            />
+        <CheckBox android:id="@+id/checkbox_seven70"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="4LLOY5"
+            />
+        <CheckBox android:id="@+id/checkbox_turismo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TPD4WG"
+            />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="5dp"
+            android:background="@drawable/customdivider3"/>
+        <CheckBox android:id="@+id/checkbox_omnis"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="W1D3B0D"
+            />
+        <CheckBox android:id="@+id/checkbox_troposrallye"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1985"
+            />
+        <CheckBox android:id="@+id/checkbox_jester"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="N0F00L"
+            />
+        <CheckBox android:id="@+id/checkbox_sultanrs"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SN0WFLK3"
+            />
+    </LinearLayout>
+
+</android.support.v4.widget.NestedScrollView>
